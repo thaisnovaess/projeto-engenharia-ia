@@ -46,15 +46,14 @@ Atualmente cursando o **2º semestre de Ciência da Computação** na **UNICID**
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Engenharia de prompt com otimização de respostas em múltiplas iterações | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-corrida-do-prompt |
-| **SM2 - Laboratório de Classificação Visual** | Classificação de imagens com visão computacional | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-laboratorio-classificacao-visual |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação de modelos e estruturação de prompts em XML | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-batalha-de-modelos-engenharia-prompt-xml |
-| **SM4 - Engenharia Reversa** | Reconstrução de prompts a partir de outputs gerados | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-engenharia-reversa |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de produto mínimo viável funcional | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-mvp-clone-ao-produto-minimo-viavel |
-| **SM6 - Engenharia de Software e IA com Bubble.io** | Criação de soluções low-code com integração de IA | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-engenharia-software-ia-bubble |
-| **SM7 - App de Videoconferência com Manus AI e Jitsi** | Desenvolvimento de aplicação de videoconferência com IA | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-app-videoconferencia-manus-ai-jitsi |
-| **SM8 - Composição Musical com IA** | Geração musical assistida por inteligência artificial | https://github.com/thaisnovaess/portfolio-thais-novaes-rodrigues-de-lima/tree/main/projeto-musica-ia |
-
+| **SM1 - A Corrida do Prompt** | Engenharia de prompt com otimização de respostas em múltiplas iterações | [Ver Projeto](./projeto-corrida-do-prompt/) |
+| **SM2 - Laboratório de Classificação Visual** | Classificação de imagens com visão computacional | [Ver Projeto](./projeto-laboratorio-classificacao-visual/) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação de modelos e estruturação de prompts em XML | [Ver Projeto](./projeto-batalha-de-modelos-engenharia-prompt-xml/) |
+| **SM4 - Engenharia Reversa** | Reconstrução de prompts a partir de outputs gerados | [Ver Projeto](./projeto-engenharia-reversa/) |
+| **SM5 - MVP** | Desenvolvimento de produto mínimo viável funcional | [Ver Projeto](./projeto-mvp-clone-ao-produto-minimo-viavel/) |
+| **SM6 - Bubble + IA** | Criação de soluções low-code com IA | [Ver Projeto](./projeto-engenharia-software-ia-bubble/) |
+| **SM7 - Videoconferência IA** | App com Manus AI e Jitsi | [Ver Projeto](./projeto-app-videoconferencia-manus-ai-jitsi/) |
+| **SM8 - Música com IA** | Geração musical com inteligência artificial | [Ver Projeto](./projeto-musica-ia/) |
 ---
 
 ## ☕ Java
@@ -76,7 +75,7 @@ Atualmente cursando o **2º semestre de Ciência da Computação** na **UNICID**
 
 ---
 
-## 🌐 JavaAcript
+## 🌐 JavaScript
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
